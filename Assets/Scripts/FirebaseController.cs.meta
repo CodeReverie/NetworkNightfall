@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: fdfa1ccafffeca347a43d8845bdf8121
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - loginPanel: {instanceID: 0}
+  - signupPanel: {instanceID: 0}
+  - profilePanel: {instanceID: 0}
+  - forgetPasswordPanel: {instanceID: 0}
+  - loginEmail: {instanceID: 0}
+  - loginPassword: {instanceID: 0}
+  - signupEmail: {instanceID: 0}
+  - signupPassword: {instanceID: 0}
+  - signupCPassword: {instanceID: 0}
+  - signupUserName: {instanceID: 0}
+  - forgetPassEmail: {instanceID: 0}
+  - loginEmailf: {instanceID: 0}
+  - loginPasswordf: {instanceID: 0}
+  - signupEmailf: {instanceID: 0}
+  - signupPasswordf: {instanceID: 0}
+  - signupCPasswordf: {instanceID: 0}
+  - signupUserNamef: {instanceID: 0}
+  - forgetPassEmailf: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
