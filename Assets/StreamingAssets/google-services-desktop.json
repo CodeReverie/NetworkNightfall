@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544815479384",
+    "project_id": "burningdatabase",
+    "storage_bucket": "burningdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544815479384:android:4541b8e0b5ad3c06f7a82d",
+        "android_client_info": {
+          "package_name": "com.Skyvault.NNF"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKnNMugu-sDaT7pQLYLT1xD7Xv0iH8-9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
